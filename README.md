@@ -1,4 +1,4 @@
 # kronos
 jQuery datepicker plug-in 입니다.
 
-demo : https://simplizm-company.github.io/kronos/
+demo : https://shinyj1991.github.io/kronos/
